@@ -11,7 +11,8 @@ title: API Example
   "payment_method": "wallet",
   "amount": {
     "currency": "USD",
-    "value": "50.00"
+    "value": "50.00",
+    "value": "76.00"
   }
 }
 ```
